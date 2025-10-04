@@ -3,7 +3,7 @@
  <h3 align="center"> Frontend Web developer | </h3>
 <br />
 
-![Profile Banner](https://github.com/vishal02527/vishal02527/blob/main/Profile%20Banner.png)
+![Profile Banner](https://github.com/student-AmanKumar/student-AmanKumar/blob/main/Profile%20Banner.png)
 
  #### _Welcome To My GitHub Profile._ 
  
