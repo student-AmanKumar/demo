@@ -1,8 +1,8 @@
  
  # <div align="center"> 👨‍🎓 Hello! I am Aman Kumar...</div>
- <h3 align="center"> Frontend Web developer | </h3>
+ <h3 align="center"> Frontend Web developer  </h3>
 <br />
- # Welcome To My GitHub Profile._ 
+ # <div>Welcome To My GitHub Profile.</div>
  <br>
  
  ## 🧑‍💻About Me:
